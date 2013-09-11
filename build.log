@@ -1,0 +1,12 @@
+Logfile initialized
+[INFO] logfile = /Users/jwilliams/Projects/titanium/employeeDirectory/build.log
+[DEBUG] /Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/android/builder.py install employeeDirectory /opt/android-sdk-mac_x86 /Users/jwilliams/Projects/titanium/employeeDirectory com.jjoshau.employeeDirectory 19
+[INFO] Titanium SDK version: 2.1.2 (08/24/12 14:46 ed7f777)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[ERROR] Timed out waiting for device to be ready, you may try reconnecting the USB cable
